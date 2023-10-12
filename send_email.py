@@ -1,4 +1,5 @@
 import smtplib, ssl
+import os
 
 
 def contactMe(message):
